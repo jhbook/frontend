@@ -33,6 +33,20 @@ This document records all notable changes to ShadCN Admin.
 
 * **release:** Release 1.2.0-dev.1 / 发布版本 1.2.0-dev.1 [skip ci] ([50e695a](https://github.com/perfect-panel/frontend/commit/50e695a1bb156f7176b2af0db26b59f70124ad61))
 
+## [1.2.0](https://github.com/perfect-panel/frontend/compare/v1.1.3...v1.2.0) (2025-12-11)
+
+### ✨ Features / 新功能
+
+* update localization files and improve system version management ([3cf6a5c](https://github.com/perfect-panel/frontend/commit/3cf6a5cfb47ea872d6e07be0d89304dc80ed61bb))
+
+### 📚 Documentation / 文档更新
+
+* Add documentation ([99e7f60](https://github.com/perfect-panel/frontend/commit/99e7f6062db81143e7b8e3692d626ebafe6e731f))
+
+### 🔧 Chores / 其他变更
+
+* **release:** Release 1.2.0-dev.1 / 发布版本 1.2.0-dev.1 [skip ci] ([50e695a](https://github.com/perfect-panel/frontend/commit/50e695a1bb156f7176b2af0db26b59f70124ad61))
+
 ## [1.2.0-dev.1](https://github.com/perfect-panel/frontend/compare/v1.1.3...v1.2.0-dev.1) (2025-12-01)
 
 ### ✨ Features / 新功能
